@@ -1,2 +1,2 @@
-YouTube: youtube.com/@avencores
-Telegram Channel: t.me/avencores
+YouTube: https://youtube.com/@avencores
+Telegram Channel: https://t.me/avencores
